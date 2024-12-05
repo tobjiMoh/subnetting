@@ -1,2 +1,4 @@
-# subnetting
-partage d'un réseau en plusieurs sous réseaux egaux - simulation cisco packet tracer
+# TD subnetting
+ - Consulter l'enoncé subnetting.pdf 
+ - **Exercice 1** est à réaliser sur feuille
+ - **Exercice 2** sur PC ( lancer CISCO Packet Tracer et ouvrir le fichier de simulation subnetting-cisco-packet-tracer.pkt).
