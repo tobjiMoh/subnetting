@@ -1,4 +1,8 @@
-# TD subnetting
- - Consulter l'enoncé subnetting.pdf 
- - **Exercice 1** est à réaliser sur feuille
- - **Exercice 2** sur PC ( lancer CISCO Packet Tracer et ouvrir le fichier de simulation subnetting-cisco-packet-tracer.pkt).
+# TD subnetting 
+<p align="center">
+<img src="topologie-du-reseau.png" alt="Photo de démonstration" width="300">
+</p>
+
+ - *Consulter* l'enoncé subnetting.pdf 
+ - *réaliser* l'exercice 1 sur feuille
+ - *réaliser* l'exercice 2** sur PC (fichier de simulation subnetting-cisco-packet-tracer.pkt).
